@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<profile duration="400" type="MICROWAVE">
+	<load type="ON_OFF_GROWTH">
+		<basePower value="31"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="113.48436264326769"></growthRate>
+		<duration value="0.0225"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="0"></activePower>
+		<peakPower value="1342"></peakPower>
+		<decayRate value="3.698082553577897E-4"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.2825"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="4"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.4425"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="1207"></activePower>
+		<peakPower value="1267"></peakPower>
+		<decayRate value="0.023578289809382535"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.1175"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="19"></activePower>
+		<peakPower value="27"></peakPower>
+		<decayRate value="0.2104935001029903"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.135"></duration>
+	</load>
+</profile>

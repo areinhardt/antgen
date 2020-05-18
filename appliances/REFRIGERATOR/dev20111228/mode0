@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="841" type="REFRIGERATOR">
+  <load type="LINEAR">
+    <startPower value="168.2727272727273"/>
+    <endPower value="174.81818181818184"/>
+    <duration value="0.0023781212841854932"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="148.83012093408766"/>
+    <peakPower value="150.0782978684439"/>
+    <decayRate value="-0.07604610324108715"/>
+    <duration value="0.026159334126040427"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="159.57825966082845"/>
+    <endPower value="154.76012417755535"/>
+    <duration value="0.12841854934601665"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="150.79197860962566"/>
+    <endPower value="142.0976317799847"/>
+    <duration value="0.09988109393579073"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="150.97006018664132"/>
+    <peakPower value="142.60249819008123"/>
+    <decayRate value="-0.006746926294761589"/>
+    <duration value="0.0535077288941736"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="139.25168310962442"/>
+    <endPower value="132.65016725240292"/>
+    <duration value="0.13436385255648037"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="134.30140059797444"/>
+    <endPower value="123.50665858053435"/>
+    <duration value="0.5552913198573127"/>
+  </load>
+</profile>

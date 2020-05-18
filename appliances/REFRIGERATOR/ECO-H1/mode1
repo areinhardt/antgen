@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="4154" type="01">
+  <load type="ON_OFF">
+    <onPower value="910.235"/>
+    <duration value="0.00024073182474723158"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="100.569"/>
+    <duration value="0.00024073182474723158"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="60.89091637800158"/>
+    <growthRate value="-0.8317135860549673"/>
+    <stretchFactor value="0.3123417063509769"/>
+    <duration value="0.11338468945594607"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="66.358"/>
+    <duration value="0.00024073182474723158"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="83.15799941797476"/>
+    <growthRate value="-0.5997244080314044"/>
+    <stretchFactor value="23.383617483033525"/>
+    <duration value="0.0009629272989889263"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="56.78751743942333"/>
+    <endPower value="51.10758228046464"/>
+    <duration value="0.17188252286952335"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="53.5283"/>
+    <duration value="0.00024073182474723158"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="66.37682776496463"/>
+    <growthRate value="-1.3730576282896665"/>
+    <stretchFactor value="840.6355785892176"/>
+    <duration value="0.7125662012518055"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="42.8365"/>
+    <duration value="0.00024073182474723158"/>
+  </load>
+</profile>

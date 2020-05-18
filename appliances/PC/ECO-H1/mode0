@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="1886" type="PC">
+  <load type="LINEAR">
+    <startPower value="65.98955977396209"/>
+    <endPower value="44.90435557873501"/>
+    <duration value="0.38335100742311773"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="43.1738"/>
+    <duration value="0.0010604453870625664"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="45.3266"/>
+    <duration value="0.0010604453870625664"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="43.1738"/>
+    <duration value="0.0010604453870625664"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="45.3266"/>
+    <duration value="0.0010604453870625664"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="43.1738"/>
+    <duration value="0.0005302226935312832"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="45.3266"/>
+    <duration value="0.0005302226935312832"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="43.41693311743459"/>
+    <endPower value="25.563166101992998"/>
+    <duration value="0.6113467656415694"/>
+  </load>
+</profile>

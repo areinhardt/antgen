@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<profile duration="107" frequency="24" type="REFRIGERATOR">
+	<load type="ON_OFF">
+		<onPower value="69"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="1.0"></duration>
+	</load>
+</profile>

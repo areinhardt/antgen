@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<profile duration="220" type="KETTLE">
+	<load type="ON_OFF">
+		<onPower value="580"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.013636363636363636"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="1996"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.9863636363636363"></duration>
+	</load>
+</profile>

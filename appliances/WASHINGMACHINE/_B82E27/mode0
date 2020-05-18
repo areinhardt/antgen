@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<profile duration="11428" type="WASHINGMACHINE">
+	<load type="ON_OFF_DECAY">
+		<activePower value="45"></activePower>
+		<peakPower value="3559"></peakPower>
+		<decayRate value="0.013421502085411794"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.005075253762688134"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="2935"></activePower>
+		<peakPower value="3070"></peakPower>
+		<decayRate value="0.23641612270477125"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.1330941547077354"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="136"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.02152607630381519"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="28"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="36.229568780581204"></growthRate>
+		<duration value="0.005250262513125656"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="5"></activePower>
+		<peakPower value="12"></peakPower>
+		<decayRate value="0.06134583231633156"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.005775288764438222"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="89"></activePower>
+		<peakPower value="401"></peakPower>
+		<decayRate value="0.13240109247652798"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.10719285964298216"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="334"></activePower>
+		<peakPower value="805"></peakPower>
+		<decayRate value="0.3260870856307909"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.005162758137906895"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="23"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="11.015279069674298"></growthRate>
+		<duration value="0.046989849492474624"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="95"></activePower>
+		<peakPower value="203"></peakPower>
+		<decayRate value="0.21517482481703282"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.004462723136156808"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="41"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="103.66120412263582"></growthRate>
+		<duration value="0.004550227511375569"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="90"></activePower>
+		<peakPower value="423"></peakPower>
+		<decayRate value="0.062489023777220466"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.05460273013650683"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="258"></activePower>
+		<peakPower value="948"></peakPower>
+		<decayRate value="0.21702722232256044"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.002712635631781589"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="86"></activePower>
+		<peakPower value="664"></peakPower>
+		<decayRate value="0.06847890321923704"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.05512775638781939"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="209"></activePower>
+		<peakPower value="933"></peakPower>
+		<decayRate value="0.1998114710683466"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.002712635631781589"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="96"></activePower>
+		<peakPower value="583"></peakPower>
+		<decayRate value="0.07328423662940924"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.011025551277563878"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="324"></activePower>
+		<peakPower value="715"></peakPower>
+		<decayRate value="0.12927986765844035"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.006212810640532027"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="464"></activePower>
+		<peakPower value="509"></peakPower>
+		<decayRate value="0.10601799852926568"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.01583829191459573"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="563"></activePower>
+		<peakPower value="898"></peakPower>
+		<decayRate value="0.1446883959487243"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.007875393769688484"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="77"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.006650332516625832"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="3"></activePower>
+		<peakPower value="75"></peakPower>
+		<decayRate value="0.1436744055730258"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.006125306265313266"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="7"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.07516625831291565"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="2814"></activePower>
+		<peakPower value="2866"></peakPower>
+		<decayRate value="0.017736807244689054"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.03333916695834792"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="88"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.043402170108505424"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="76"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.10255512775638782"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="54"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="10.65520748974136"></growthRate>
+		<duration value="0.012600630031501575"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="373"></activePower>
+		<peakPower value="466"></peakPower>
+		<decayRate value="0.2863892022595991"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.005425271263563178"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="21"></activePower>
+		<peakPower value="95"></peakPower>
+		<decayRate value="0.01144908922118858"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.027738886944347216"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="36"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="13.74387896507783"></growthRate>
+		<duration value="0.024851242562128107"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="215"></activePower>
+		<peakPower value="765"></peakPower>
+		<decayRate value="0.2433985081140462"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.002625131256562828"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="80"></activePower>
+		<peakPower value="575"></peakPower>
+		<decayRate value="0.06645417369101425"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.048127406370318516"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="46"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="15.58006173088819"></growthRate>
+		<duration value="0.007262863143157158"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="437"></activePower>
+		<peakPower value="632"></peakPower>
+		<decayRate value="0.6094037060707839"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.004987749387469373"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="76"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.00463773188659433"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="79"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.04147707385369268"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="58"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="12.041948555577338"></growthRate>
+		<duration value="0.006737836891844593"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="266"></activePower>
+		<peakPower value="637"></peakPower>
+		<decayRate value="0.33716110640203034"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.005162758137906895"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="52"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="10.208902152464685"></growthRate>
+		<duration value="0.00831291564578229"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="321"></activePower>
+		<peakPower value="618"></peakPower>
+		<decayRate value="0.07498261592944877"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.006387819390969549"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="455"></activePower>
+		<peakPower value="513"></peakPower>
+		<decayRate value="0.16231422605012022"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.015575778788939447"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="579"></activePower>
+		<peakPower value="980"></peakPower>
+		<decayRate value="0.16369273154671032"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.007962898144907245"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="75"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.0077003850192509625"></duration>
+	</load>
+</profile>

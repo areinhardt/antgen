@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<profile duration="117" type="TOASTER">
+	<load type="ON_OFF_DECAY">
+		<activePower value="718"></activePower>
+		<peakPower value="731"></peakPower>
+		<decayRate value="0.0850148567619692"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.9914529914529915"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="533"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.008547008547008548"></duration>
+	</load>
+</profile>

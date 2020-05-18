@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="146" type="KETTLE">
+  <load type="ON_OFF">
+    <onPower value="420.353"/>
+    <duration value="0.00684931506849315"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="1954.7828074198271"/>
+    <growthRate value="-13.566344035047477"/>
+    <stretchFactor value="573.0721486145826"/>
+    <duration value="0.9931506849315068"/>
+  </load>
+</profile>

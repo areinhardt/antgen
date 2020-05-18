@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<profile duration="15050" type="PC">
+	<load type="ON_OFF">
+		<onPower value="117"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.017209302325581394"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="102"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.19362126245847175"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="104"></activePower>
+		<peakPower value="237"></peakPower>
+		<decayRate value="0.5684052406810522"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.0345514950166113"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="102"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.2479734219269103"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="108"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.16292358803986712"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="116"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.053421926910299004"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="113"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.043853820598006646"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="106"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.044983388704318936"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="99"></activePower>
+		<peakPower value="112"></peakPower>
+		<decayRate value="0.0015785680063444838"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.20146179401993355"></duration>
+	</load>
+</profile>

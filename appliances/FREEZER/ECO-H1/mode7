@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="2053" type="FREEZER">
+  <load type="LINEAR">
+    <startPower value="51.8445"/>
+    <endPower value="54.0014"/>
+    <duration value="0.000974184120798831"/>
+  </load>
+  <load type="ON_OFF">
+    <onPower value="36.7457"/>
+    <duration value="0.000974184120798831"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="42.1382"/>
+    <endPower value="39.9812"/>
+    <duration value="0.0014612761811982464"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="34.37211215363684"/>
+    <endPower value="32.19476067138759"/>
+    <duration value="0.9965903555772041"/>
+  </load>
+</profile>

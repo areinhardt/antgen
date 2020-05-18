@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<profile duration="1969" type="CDPLAYER">
+	<load type="ON_OFF">
+		<onPower value="10"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.02488572879634332"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="9"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.95733875063484"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="10"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.017775520568816656"></duration>
+	</load>
+</profile>

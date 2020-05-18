@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<profile duration="124" type="MICROWAVE">
+	<load type="ON_OFF">
+		<onPower value="112"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.0967741935483871"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="0"></activePower>
+		<peakPower value="1373"></peakPower>
+		<decayRate value="3.5667698011879884E-4"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.9032258064516129"></duration>
+	</load>
+</profile>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<profile duration="686" type="COOKINGSTOVE">
+	<load type="ON_OFF_DECAY">
+		<activePower value="0"></activePower>
+		<peakPower value="833"></peakPower>
+		<decayRate value="1.681587328040136E-4"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.09766763848396501"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="841"></activePower>
+		<peakPower value="846"></peakPower>
+		<decayRate value="0.038209681800195655"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.902332361516035"></duration>
+	</load>
+</profile>

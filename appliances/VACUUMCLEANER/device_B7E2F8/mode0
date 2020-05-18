@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<profile duration="721" type="VACUUMCLEANER">
+	<load type="ON_OFF">
+		<onPower value="1123"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.7794729542302358"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="1101"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="7.836286387414962"></growthRate>
+		<duration value="0.22052704576976423"></duration>
+	</load>
+</profile>

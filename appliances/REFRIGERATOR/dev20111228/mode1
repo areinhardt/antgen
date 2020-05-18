@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="823" type="REFRIGERATOR">
+  <load type="ON_OFF">
+    <onPower value="222.75"/>
+    <duration value="0.002430133657351154"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="146.27469814690076"/>
+    <peakPower value="147.9734921331142"/>
+    <decayRate value="-0.06136747352254445"/>
+    <duration value="0.026731470230862697"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="154.60031244218436"/>
+    <growthRate value="0.43641453734471475"/>
+    <stretchFactor value="5.14722037987505"/>
+    <duration value="0.08748481166464156"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="155.09188034188034"/>
+    <endPower value="152.48504273504273"/>
+    <duration value="0.031591737545565005"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="151.0487987987988"/>
+    <endPower value="146.97897897897897"/>
+    <duration value="0.04374240583232078"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="146.3310344827586"/>
+    <endPower value="143.80689655172412"/>
+    <duration value="0.03523693803159174"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="143.51785714285714"/>
+    <endPower value="143.19642857142856"/>
+    <duration value="0.00850546780072904"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="142.8177921595909"/>
+    <peakPower value="142.5600185514129"/>
+    <decayRate value="-0.054198745339591604"/>
+    <duration value="0.04374240583232078"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="143.03645756651932"/>
+    <peakPower value="140.69219805407698"/>
+    <decayRate value="-0.021638712864950383"/>
+    <duration value="0.030376670716889428"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="138.68823529411765"/>
+    <endPower value="134.95176470588234"/>
+    <duration value="0.060753341433778855"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="134.24054054054054"/>
+    <endPower value="132.2864864864865"/>
+    <duration value="0.0899149453219927"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="150.1161629014821"/>
+    <peakPower value="131.72973330353815"/>
+    <decayRate value="-0.0007357390772837149"/>
+    <duration value="0.16038882138517618"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="131.75830866559144"/>
+    <growthRate value="-0.3251429399909991"/>
+    <stretchFactor value="73.71436022796881"/>
+    <duration value="0.3730255164034022"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="96.5"/>
+    <endPower value="80.5"/>
+    <duration value="0.002430133657351154"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="32.16666666666667"/>
+    <endPower value="31.16666666666667"/>
+    <duration value="0.0036452004860267314"/>
+  </load>
+</profile>

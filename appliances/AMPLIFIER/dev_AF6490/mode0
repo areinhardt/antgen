@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="28339" type="AMPLIFIER">
+  <load type="ON_OFF">
+    <onPower value="85.0"/>
+    <duration value="3.528706023501182e-05"/>
+  </load>
+  <load type="LINEAR">
+    <startPower value="43.88328350913852"/>
+    <endPower value="43.666274762675584"/>
+    <duration value="0.2915769787219027"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="43.346387504461646"/>
+    <growthRate value="0.043095949399352476"/>
+    <stretchFactor value="23.622011708740974"/>
+    <duration value="0.7083877342178623"/>
+  </load>
+</profile>

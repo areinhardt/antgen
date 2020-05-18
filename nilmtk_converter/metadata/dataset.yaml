@@ -1,0 +1,25 @@
+name: ANTgen
+long_name: The AMBAL-based NILM Trace generator
+creators:
+- Reinhardt, Andreas
+- Klemenjak, Christoph
+publication_date: 2020
+institution: TU Clausthal
+contact: reinhardt@ieee.org
+description:
+subject: Synthetic data set for NILM evaluations
+number_of_buildings: 1
+timezone: Europe/Vienna
+geo_location:
+  locality:
+  country:
+  latitude:
+  longitude: 
+
+related_documents:
+- https://github.com/areinhardt/antgen
+- >
+  Andreas Reinhardt and Christoph Klemenjak:
+  How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study
+  Proceedings of the 11th ACM International Conference on Future Energy Systems (e-Energy), 2020
+schema: https://github.com/nilmtk/nilm_metadata/tree/v0.2

@@ -1,0 +1,9 @@
+ANTgen.log
+output/
+.idea/
+__pycache__/
+ANTgen-*.zip
+*.h5
+*.hdf5
+*.hdf
+*.csv

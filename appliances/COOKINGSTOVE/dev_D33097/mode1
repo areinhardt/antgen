@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<profile duration="421" type="COOKINGSTOVE">
+	<load type="ON_OFF">
+		<onPower value="871"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.3990498812351544"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="859"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.6009501187648456"></duration>
+	</load>
+</profile>

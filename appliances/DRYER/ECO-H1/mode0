@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<profile duration="2" type="DRYER">
+  <load type="ON_OFF">
+    <onPower value="6.46354"/>
+    <duration value="1.0"/>
+  </load>
+</profile>

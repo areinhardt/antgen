@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<profile duration="792" frequency="24" type="REFRIGERATOR">
+	<load type="ON_OFF_DECAY">
+		<activePower value="77"></activePower>
+		<peakPower value="124"></peakPower>
+		<decayRate value="0.1461374326220277"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.1893939393939394"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="0"></activePower>
+		<peakPower value="76"></peakPower>
+		<decayRate value="1.3445909301235026E-4"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.8106060606060606"></duration>
+	</load>
+</profile>

@@ -1,0 +1,12 @@
+simulator:
+  model: ANTgen
+  manufacturer: Andreas Reinhardt
+  manufacturer_url: https://github.com/areinhardt/antgen
+  description: Realistic load signature generation for load disaggregation performance evaluation
+  sample_period: 1
+  max_sample_period: 1
+  measurements:
+  - physical_quantity: power
+    type: active
+    upper_limit: 96000
+    lower_limit: 0

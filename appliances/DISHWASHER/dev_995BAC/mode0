@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<profile duration="4037" type="DISHWASHER">
+	<load type="ON_OFF_DECAY">
+		<activePower value="45"></activePower>
+		<peakPower value="145"></peakPower>
+		<decayRate value="0.16202427199391847"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.015357939063661135"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="2083"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.37899430270002477"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="90"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.22368095120138717"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="2024"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.3819668070349269"></duration>
+	</load>
+</profile>

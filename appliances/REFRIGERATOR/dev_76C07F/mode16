@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<profile duration="1150" frequency="24" type="REFRIGERATOR">
+	<load type="ON_OFF_DECAY">
+		<activePower value="10"></activePower>
+		<peakPower value="18"></peakPower>
+		<decayRate value="0.3734768694087175"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.03391304347826087"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="0"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.18521739130434783"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="1"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="26.705402225934986"></growthRate>
+		<duration value="0.026956521739130435"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="73"></activePower>
+		<peakPower value="112"></peakPower>
+		<decayRate value="0.11639907557394541"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.0817391304347826"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="75"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.08782608695652173"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="75"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.02608695652173913"></duration>
+	</load>
+	<load type="ON_OFF">
+		<onPower value="73"></onPower>
+		<offPower value="0"></offPower>
+		<duration value="0.29130434782608694"></duration>
+	</load>
+	<load type="ON_OFF_DECAY">
+		<activePower value="70"></activePower>
+		<peakPower value="89"></peakPower>
+		<decayRate value="0.13481894944426237"></decayRate>
+		<offPower value="0"></offPower>
+		<duration value="0.2669565217391304"></duration>
+	</load>
+</profile>

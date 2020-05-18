@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<profile duration="559" type="COOKINGSTOVE">
+	<load type="ON_OFF_GROWTH">
+		<basePower value="700"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="37.71629397939442"></growthRate>
+		<duration value="0.38998211091234347"></duration>
+	</load>
+	<load type="ON_OFF_GROWTH">
+		<basePower value="762"></basePower>
+		<offPower value="0"></offPower>
+		<growthRate value="21.140957242318187"></growthRate>
+		<duration value="0.6100178890876565"></duration>
+	</load>
+</profile>
