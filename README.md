@@ -24,6 +24,10 @@ ANTgen relies on a small number of Python libraries to fully function. Install t
 pip3 install -r requirements.txt
 ```
 
+Note: On Windows systems without a C/C++ compiler suite installed, the installation of package requirements may fail, 
+reporting that the "Microsoft Visual C++ Build Tools" are missing. To continue, [download and install 
+them](https://visualstudio.microsoft.com/visual-cpp-build-tools/), then re-run the above command.
+
 ANTgen can show an overview plot of its generated data if `matplotlib` is installed.
 So unless you plan to use ANTgen to create data on a headless server, we recommend the installation
 of this library as well.
