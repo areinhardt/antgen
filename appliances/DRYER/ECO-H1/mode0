@@ -1,7 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<profile duration="2" type="DRYER">
-  <load type="ON_OFF">
-    <onPower value="6.46354"/>
-    <duration value="1.0"/>
+<profile duration="18940" type="DRYER">
+  <load type="ON_OFF_GROWTH">
+    <basePower value="107.48985319156336"/>
+    <growthRate value="46.198773582272594"/>
+    <stretchFactor value="122.5728260705494"/>
+    <duration value="0.11536430834213306"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="599.9444585143023"/>
+    <growthRate value="15.021804065759541"/>
+    <stretchFactor value="156.07666762757543"/>
+    <duration value="0.5058078141499472"/>
+  </load>
+  <load type="ON_OFF_DECAY">
+    <activePower value="24.16847274436373"/>
+    <peakPower value="501.45713910966685"/>
+    <decayRate value="0.022815750934044744"/>
+    <duration value="0.0454065469904963"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="426.08269466573967"/>
+    <growthRate value="24.072278588246874"/>
+    <stretchFactor value="1214.6146551777144"/>
+    <duration value="0.03907074973600845"/>
+  </load>
+  <load type="ON_OFF_GROWTH">
+    <basePower value="690.5907862784682"/>
+    <growthRate value="10.545602359640355"/>
+    <stretchFactor value="59.634087533658274"/>
+    <duration value="0.294350580781415"/>
   </load>
 </profile>
