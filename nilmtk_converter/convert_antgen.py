@@ -61,6 +61,13 @@ def main():
             df = pd.read_csv(csvfile, sep=';', encoding='utf-8', index_col=0)
             df.columns = pd.MultiIndex.from_tuples([('power', 'active') for x in df.columns], names=LEVEL_NAMES)
             df.index = pd.to_datetime(df.index)
+
+            tz_naive = df.index
+            tz_aware = tz_naive.tz_localize(tz='Europe/Vienna', ambiguous=True, nonexistent=pd.Timedelta('1H'))
+            df.index = tz_aware
+
+            df = df.tz_convert('Europe/Vienna')
+
             store.put(str(key), df)
         except FileNotFoundError:
             print("Input file '{}' not found - your HDF5 file will be incomplete!".format(csvfile))
