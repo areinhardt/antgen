@@ -1,7 +1,7 @@
 backcall==0.1.0
 cycler==0.10.0
 decorator==4.4.2
-ipython==7.14.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.17.0
 joblib==0.15.0
