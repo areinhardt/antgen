@@ -4,7 +4,7 @@ decorator==4.4.2
 ipython==7.14.0
 ipython-genutils==0.2.0
 jedi==0.17.0
-joblib==0.15.0
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.2.1
 networkx==2.4
